@@ -420,12 +420,8 @@
     </reporting>
 
     <distributionManagement>
-        <snapshotRepository>
-            <id>snapshots</id>
-            <url>http://ec2-35-164-170-12.us-west-2.compute.amazonaws.com:8081/repository/spring/</url>
-        </snapshotRepository>
         <repository>
-            <id>releases</id>
+            <id>spring</id>
             <url>http://ec2-35-164-170-12.us-west-2.compute.amazonaws.com:8081/repository/spring/</url>
         </repository>
     </distributionManagement>
