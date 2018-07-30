@@ -423,7 +423,7 @@
     <distributionManagement>
         <repository>
             <id>spring</id>
-            <url>http://ec2-35-164-170-12.us-west-2.compute.amazonaws.com:8081/repository/spring/</url>
+            <url>http://ec2-34-217-101-169.us-west-2.compute.amazonaws.com:8081/repository/spring/</url>
         </repository>
     </distributionManagement>
 
