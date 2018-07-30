@@ -422,7 +422,7 @@
 
     <distributionManagement>
         <repository>
-            <id>spring</id>
+            <id>joda</id>
             <url>http://ec2-34-217-101-169.us-west-2.compute.amazonaws.com:8081/repository/spring/</url>
         </repository>
     </distributionManagement>
